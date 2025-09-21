@@ -1,2 +1,2 @@
-# gocamole
-A simple project that allows user remotely access desktop via browser.Inspired by Apache Guacamole 
+# Gocamole
+A simple project that allows user remotely access desktop via browser. A simple project that allows user to access desktop remotely via browser. Mainly for developers to access Windows machine via RDP from Linux machine. Inspired by Apache Guacamole.
