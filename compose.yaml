@@ -1,0 +1,10 @@
+services:
+  gocamole:
+    build: .
+    image: "gocamole:1.0"
+    ports:
+      - 3000:3000
+  guacd:
+    image: "guacamole/guacd:1.6.0"
+    environment:
+      - LOG_LEVEL=info
